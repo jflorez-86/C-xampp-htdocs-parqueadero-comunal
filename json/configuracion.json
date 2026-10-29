@@ -1,0 +1,23 @@
+
+{
+  "sistema": "Parqueadero Comunal",
+  "version": "1.0.0",
+  "capacidad_maxima": 50,
+  "moneda": "COP",
+  "idioma": "es",
+  "colores": {
+    "principal": "#17365d",
+    "secundario": "#24558b",
+    "disponible": "#198754",
+    "ocupado": "#dc3545",
+    "fondo": "#f2f5f9"
+  },
+  "estados_residente": [
+    "activo",
+    "inactivo"
+  ],
+  "estados_autorizacion": [
+    "autorizado",
+    "no autorizado"
+  ]
+}
