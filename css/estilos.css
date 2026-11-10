@@ -1,6 +1,6 @@
 
 :root {
-    --azul: #17365d;
+    --naranja: #A6691f;
     --azul-claro: #24558b;
     --verde: #198754;
     --verde-fondo: #e0f5e9;
@@ -32,7 +32,7 @@ h1, h2 {
     display: grid;
     place-items: center;
     padding: 20px;
-    background: linear-gradient(135deg, #102846, #2875a8);
+    background: linear-gradient(135deg, #A6691f, #A6691f);
 }
 
 .login-card {

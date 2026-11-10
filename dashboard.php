@@ -74,6 +74,7 @@ $puestos = $pdo->query(
         <a class="btn btn-primary" href="residentes.php">
             Registrar residentes
         </a>
+        <a href="cambiar_password.php">Cambiar contraseña</a>
     </nav>
 
     <section class="panel">

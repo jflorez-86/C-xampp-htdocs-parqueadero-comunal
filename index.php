@@ -43,9 +43,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body class="login-page">
     <main class="login-card">
-        <div class="logo">P</div>
-        <h1>Parqueadero Comunal</h1>
-        <p>Panel de control de acceso vehicular</p>
+        <div class="logo">img</div>
+        <h1>Sistema de gestión parqueadero comunal conjunto residencial iguazu</h1>
+        <p>Control de Acceso Vehicular</p>
 
         <?php if ($error): ?>
             <div class="alerta">
